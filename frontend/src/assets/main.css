@@ -12,3 +12,15 @@ transition: all 1s ease-out;
 opacity: 1;
 transform: translateY(0px);
 }
+/* src/assets/main.css atau src/index.css */
+html {
+  scroll-behavior: smooth;
+}
+#profil {
+  background-image: url("backgroundprofil.png");
+  background-size: cover;
+  height: 100dvh;
+}
+#kontenprofil {
+  height: 100%;
+}

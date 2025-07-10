@@ -2,7 +2,7 @@
 import { RouterView } from 'vue-router';
 </script>
 <template>
-<div class="bg-gray-100 font-sans">
+<div class="bg-[#ffffff] text-white font-sans transition-colors duration-500">
 <RouterView />
 </div>
 </template>

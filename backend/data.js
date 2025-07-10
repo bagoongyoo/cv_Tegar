@@ -1,6 +1,6 @@
 const educationHistory = [
-    { id: 1, period: '2022 - Sekarang', institution: 'Universitas Gadjah Mada', major: 'S1 - Teknik Informatika' },
-    { id: 2, period: '2019 - 2022', institution: 'SMA Negeri 1 Banguntapan', major: 'MIPA' }
+    { id: 1, period: '2023 - Sekarang', institution: 'Universitas Amikom Yogyakarta', major: 'S1 - Informatika' },
+    { id: 2, period: '2020 - 2023', institution: 'SMA Negeri 1 Banguntapan', major: 'MIPA' }
   ];
   
   const skills = [
@@ -16,9 +16,9 @@ const educationHistory = [
   
   const projects = [
     {
-      title: 'Website Toko Online',
-      image: 'https://via.placeholder.com/500x300?text=Proyek+1',
-      description: 'Platform e-commerce dengan fitur keranjang belanja.',
+      title: 'Master Trainer AWS',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4P34TKgJcYwMiu7SRyW-IisJ4MpJ0u0kTiQ&s',
+      description: 'Menjadi Master Trainer di Amazon Web Service.',
       tech: ['Vue.js', 'Express.js', 'PostgreSQL'],
       link: '#'
     },

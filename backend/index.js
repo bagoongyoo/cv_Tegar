@@ -8,7 +8,10 @@ app.use(cors());
 
 app.use(express.json());
 app.get('/api/education', (req, res) => res.json(educationHistory));
-app.get('/api/skills', (req, res) => res.json(skills));
+app.get('/api/skills', (req, res) => {
+  console.log('Data skills yang dikirim:', skills); // 👈 ini
+  res.json(skills);
+});
 app.get('/api/projects', (req, res) => res.json(projects));
 app.listen(PORT, () => {
 console.log(` Server backend berjalan di
