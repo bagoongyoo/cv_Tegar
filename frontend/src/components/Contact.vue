@@ -3,7 +3,7 @@ import SectionTitle from './SectionTitle.vue'
 </script>
 
 <template>
-  <footer id="kontak" class="py-20 bg-black text-white">
+  <footer id="kontak" class="py-20 bg-gray-950 text-white">
     <div class="container mx-auto px-6 text-center">
       <SectionTitle class="text-white" title="Hubungi Saya" />
       <p class="text-xl text-gray-300 mb-8">Jangan ragu untuk terhubung atau bertanya.</p>

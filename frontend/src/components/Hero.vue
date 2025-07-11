@@ -14,7 +14,7 @@
         </h1>
 
         <p class="text-xl text-white-600 mb-8 animate-slide-in-left" style="animation-delay: 400ms">
-          Mahasiswa Teknik Informatika yang bersemangat dalam pengembangan web dan desain antarmuka.
+          Halo, saya Muhammad Tegar, seorang mahasiswa Informatika yang memiliki ketertarikan pada dunia pengembangan web, teknologi, dan inovasi digital. Melalui website ini, saya berbagi perjalanan, proyek, dan keterampilan yang saya kembangkan selama studi dan eksplorasi di dunia teknologi.
         </p>
 
         <a

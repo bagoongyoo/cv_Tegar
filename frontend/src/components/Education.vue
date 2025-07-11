@@ -30,12 +30,12 @@ onMounted(async () => {
               <p class="text-gray-600">{{ edu.major }}</p>
             </div>
             <div class="w-1/2 flex justify-start">
-              <div class="w-4 h-4 bg-blue-500 rounded-full z-10"></div>
+              <div class="w-4 h-4 bg-slate-500 rounded-full z-10"></div>
             </div>
           </div>
           <div v-else class="w-full flex">
             <div class="w-1/2 flex justify-end">
-              <div class="w-4 h-4 bg-blue-500 rounded-full z-10"></div>
+              <div class="w-4 h-4 bg-slate-500 rounded-full z-10"></div>
             </div>
 
             <div class="w-1/2 pl-8 text-left">

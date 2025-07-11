@@ -29,7 +29,7 @@ onMounted(async () => {
               <span
                 v-for="t in project.tech"
                 :key="t"
-                class="inline- block bg-slate-200 text-slate-500 text-sm font-semibold mr-2 mb-2 px-2.5 py-0.5 rounded-full"
+                class="inline- block bg-slate-200 text-blue-400 text-sm font-semibold mr-2 mb-2 px-2.5 py-0.5 rounded-full"
                 >{{ t }}</span>
             </div>
             <a

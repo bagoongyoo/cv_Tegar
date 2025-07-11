@@ -49,7 +49,7 @@ const skills = [
       title: 'Master Trainer di Amazon Web Service (AWS)',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4P34TKgJcYwMiu7SRyW-IisJ4MpJ0u0kTiQ&s',
       description: 'Menjadi Master Trainer di Amazon Web Service sejak 2022.',
-      tech: ['Cloud Practitioner Essentiaks', 'MySQL', 'AWS Elastic Cloud Computing'],
+      tech: ['Cloud Practitioner Essentiaks', 'AWS Elastic Cloud Computing', 'MySQL'],
       link: 'https://www.liputan6.com/news/read/5698523/aws-ajak-indonesia-lebih-paham-soal-cloud-lewat-program-terampil-di-awan?page=2'
     },
     {

@@ -1,7 +1,7 @@
 <template>
   <header
     :class="[
-      'bg-black shadow-md sticky top-0 z-50 transition-transform duration-300',
+      'bg-gray-950 shadow-md sticky top-0 z-50 transition-transform duration-300',
       { '-translate-y-full': isHidden }
     ]"
   >
