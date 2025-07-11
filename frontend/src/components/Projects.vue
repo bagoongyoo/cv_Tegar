@@ -29,14 +29,14 @@ onMounted(async () => {
               <span
                 v-for="t in project.tech"
                 :key="t"
-                class="inline- block bg-blue-100 text-blue-800 text-sm font-semibold mr-2 mb-2 px-2.5 py-0.5 rounded-full"
+                class="inline- block bg-slate-200 text-slate-500 text-sm font-semibold mr-2 mb-2 px-2.5 py-0.5 rounded-full"
                 >{{ t }}</span>
             </div>
             <a
               :href="project.link"
               target="_blank"
               rel="noopener noreferrer"
-              class="text-blue-600 font-semibold hover:underline"
+              class="text-slate-500 font-semibold hover:underline"
               >Lihat Detail &rarr;</a>
           </div>
         </div>
