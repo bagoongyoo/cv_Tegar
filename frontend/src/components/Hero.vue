@@ -27,7 +27,7 @@
       </div>
       <div class="md:w-1/2 flex justify-center animate-slide-in-right">
         <img
-          src="C:\Users\daffa\Documents\codingan\bagong-cv\frontend\public\fotoprofil.JPG"
+          src="\src\assets\fotoprofil.JPG"
           alt="Foto Profil"
           class="w-80 h-80 sm:w-82 sm:h-82 rounded-full object-cover shadow-2xl ring-4 ring-white-300 transition duration-300"
         />
